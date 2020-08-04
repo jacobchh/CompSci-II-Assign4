@@ -3,7 +3,7 @@
 ## Description
 For this assignment you will be given a map and you are required to write a program that finds a path from a starting location to a destination, if such a path exists. You are required to find a shortest path from the starting location, the Middlesex College building, to the destination, your house. As the algorithm looks for a shortest path to the destination cell it will keep track of the distance from the current cell to the destination cell.
 
-To execute this program, run ShortestPath.java and it will compute all eight maps present.
+To execute this program, run ShortestPath.java and it will compute all eight maps present. To alter the visulization speed, change the optional delay in the .txt map files.
 
 ## Learning Outcomes
 - The solution of problems using circular arrays and queues
